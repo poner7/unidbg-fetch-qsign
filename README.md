@@ -12,7 +12,7 @@
 
 # 部署方法
 
-**[Wiki](https://github.com/fuqiuluo/unidbg-fetch-qsign/wiki)**
+**[Wiki](https://github.com/poner7/unidbg-fetch-qsign/wiki)**
 
 # 你可能需要的项目
 
@@ -20,7 +20,7 @@
 
 # 使用API
 
-## [初始化QSign&刷新token](https://github.com/fuqiuluo/unidbg-fetch-qsign/blob/master/refresh_token/README.md)
+## [初始化QSign&刷新token](https://github.com/poner7/unidbg-fetch-qsign/blob/master/refresh_token/README.md)
 
 ### 原始energy
 
